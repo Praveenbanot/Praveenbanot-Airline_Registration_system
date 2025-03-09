@@ -1,1 +1,1 @@
-# Praveenbanot-Airline_Registration_system
+# Airline_Registration_system
